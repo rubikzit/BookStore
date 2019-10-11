@@ -12,6 +12,8 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.3",
     "pub": "^0.2.0"
   },
   "devDependencies": {
