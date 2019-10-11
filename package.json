@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "First nodejs application",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DoTienThanh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "pub": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "gai": "^0.5.0",
+    "grunt": "^1.0.4",
+    "mocha": "^6.2.1"
+  }
+}
